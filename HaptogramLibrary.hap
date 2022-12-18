@@ -1,107 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <database version="1.1.0">
   <templates>
-    <template name="jonas">
-      <nodes>
-        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="1" height="1" />
-      </nodes>
-    </template>
-    <template name="Hand">
-      <nodes>
-        <node index="0" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0" y="0,523354212112772" width="0,1" height="0,1" />
-        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,267554070437366" y="0,190438858858667" width="0,1" height="0,1" />
-        <node index="2" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,459234508536754" y="0" width="0,1" height="0,1" />
-        <node index="3" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,631614023140946" y="0,115673953568819" width="0,1" height="0,1" />
-        <node index="4" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,8" y="0,337852649005014" width="0,1" height="0,1" />
-        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,0911813548664992" y="0,603761779074333" width="0,1" height="0,1" />
-        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,170382687730887" y="0,696865230700437" width="0,1" height="0,1" />
-        <node index="7" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,267554070437366" y="0,0492909034478707" width="0,1" height="0,1" />
-        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,302163071949463" y="0,399216309657906" width="0,1" height="0,1" />
-        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,446589019772226" y="0,190438858858667" width="0,1" height="0,1" />
-        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,315474222059521" y="0,533228855167295" width="0,1" height="0,1" />
-        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,415307819820078" y="0,53887147718308" width="0,1" height="0,1" />
-        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,523128100162705" y="0,574137949050581" width="0,1" height="0,1" />
-        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,606988407598785" y="0,646081473934665" width="0,1" height="0,1" />
-        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,291514136893486" y="0,648902834512466" width="0,1" height="0,1" />
-        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,401331101914066" y="0,660188098372" width="0,1" height="0,1" />
-        <node index="16" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,49650587478225" y="0,690517228884275" width="0,1" height="0,1" />
-        <node index="17" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,587021654368826" y="0,755407510947564" width="0,1" height="0,1" />
-        <node index="18" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,242928492315034" y="0,804780587424435" width="0,1" height="0,1" />
-        <node index="19" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,349417637065748" y="0,777272738178108" width="0,1" height="0,1" />
-        <node index="20" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,45790348520433" y="0,787852622237263" width="0,1" height="0,1" />
-        <node index="21" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,34209654098955" y="0,9" width="0,1" height="0,1" />
-        <node index="22" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,446589019772226" y="0,885188094902105" width="0,1" height="0,1" />
-        <node index="23" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,56505827259066" y="0,842868320729919" width="0,1" height="0,1" />
-        <node index="24" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,431946734070257" y="0,402037610751816" width="0,1" height="0,1" />
-        <node index="25" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,551747103770688" y="0,465517212526205" width="0,1" height="0,1" />
-        <node index="26" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,647587350885254" y="0,555094082397839" width="0,1" height="0,1" />
-        <node index="27" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,595673904746851" y="0,284952990773672" width="0,1" height="0,1" />
-        <node index="28" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,736772051009664" y="0,433777401725029" width="0,1" height="0,1" />
-        <node index="29" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,522462569786578" y="0,577664530805051" width="0,1" height="0,1" />
-      </nodes>
-    </template>
-    <template name="Grid 3x3">
-      <nodes>
-        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,333333333333333" height="0,333333333333333" />
-        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0" width="0,333333333333333" height="0,333333333333333" />
-        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0" width="0,333333333333333" height="0,333333333333333" />
-        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
-        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
-        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
-        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
-        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
-        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
-      </nodes>
-    </template>
-    <template name="Grid 4x4">
-      <nodes>
-        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,25" height="0,25" />
-        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0" width="0,25" height="0,25" />
-        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0" width="0,25" height="0,25" />
-        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0" width="0,25" height="0,25" />
-        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,25" width="0,25" height="0,25" />
-        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,25" width="0,25" height="0,25" />
-        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,25" width="0,25" height="0,25" />
-        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,25" width="0,25" height="0,25" />
-        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,5" width="0,25" height="0,25" />
-        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,5" width="0,25" height="0,25" />
-        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,5" width="0,25" height="0,25" />
-        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,5" width="0,25" height="0,25" />
-        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,75" width="0,25" height="0,25" />
-        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,75" width="0,25" height="0,25" />
-        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,75" width="0,25" height="0,25" />
-        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,75" width="0,25" height="0,25" />
-      </nodes>
-    </template>
-    <template name="Grid 5x5">
-      <nodes>
-        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,2" height="0,2" />
-        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0" width="0,2" height="0,2" />
-        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0" width="0,2" height="0,2" />
-        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0" width="0,2" height="0,2" />
-        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0" width="0,2" height="0,2" />
-        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,2" width="0,2" height="0,2" />
-        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,2" width="0,2" height="0,2" />
-        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,2" width="0,2" height="0,2" />
-        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,2" width="0,2" height="0,2" />
-        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,2" width="0,2" height="0,2" />
-        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,4" width="0,2" height="0,2" />
-        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,4" width="0,2" height="0,2" />
-        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,4" width="0,2" height="0,2" />
-        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,4" width="0,2" height="0,2" />
-        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,4" width="0,2" height="0,2" />
-        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,6" width="0,2" height="0,2" />
-        <node index="16" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,6" width="0,2" height="0,2" />
-        <node index="17" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,6" width="0,2" height="0,2" />
-        <node index="18" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,6" width="0,2" height="0,2" />
-        <node index="19" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,6" width="0,2" height="0,2" />
-        <node index="20" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,8" width="0,2" height="0,2" />
-        <node index="21" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,8" width="0,2" height="0,2" />
-        <node index="22" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,8" width="0,2" height="0,2" />
-        <node index="23" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,8" width="0,2" height="0,2" />
-        <node index="24" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,8" width="0,2" height="0,2" />
-      </nodes>
-    </template>
     <template name="Grid 6x6">
       <nodes>
         <node index="0" forecolor="Red" backcolor="Transparent" shape="Square" x="0" y="0" width="0,166666666666667" height="0,166666666666667" />
@@ -142,14 +41,115 @@
         <node index="35" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,833333333333333" y="0,833333333333333" width="0,166666666666667" height="0,166666666666667" />
       </nodes>
     </template>
+    <template name="Grid 5x5">
+      <nodes>
+        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,2" height="0,2" />
+        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0" width="0,2" height="0,2" />
+        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0" width="0,2" height="0,2" />
+        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0" width="0,2" height="0,2" />
+        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0" width="0,2" height="0,2" />
+        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,2" width="0,2" height="0,2" />
+        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,2" width="0,2" height="0,2" />
+        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,2" width="0,2" height="0,2" />
+        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,2" width="0,2" height="0,2" />
+        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,2" width="0,2" height="0,2" />
+        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,4" width="0,2" height="0,2" />
+        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,4" width="0,2" height="0,2" />
+        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,4" width="0,2" height="0,2" />
+        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,4" width="0,2" height="0,2" />
+        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,4" width="0,2" height="0,2" />
+        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,6" width="0,2" height="0,2" />
+        <node index="16" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,6" width="0,2" height="0,2" />
+        <node index="17" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,6" width="0,2" height="0,2" />
+        <node index="18" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,6" width="0,2" height="0,2" />
+        <node index="19" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,6" width="0,2" height="0,2" />
+        <node index="20" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,8" width="0,2" height="0,2" />
+        <node index="21" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,2" y="0,8" width="0,2" height="0,2" />
+        <node index="22" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,4" y="0,8" width="0,2" height="0,2" />
+        <node index="23" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,6" y="0,8" width="0,2" height="0,2" />
+        <node index="24" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,8" y="0,8" width="0,2" height="0,2" />
+      </nodes>
+    </template>
+    <template name="Grid 4x4">
+      <nodes>
+        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,25" height="0,25" />
+        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0" width="0,25" height="0,25" />
+        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0" width="0,25" height="0,25" />
+        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0" width="0,25" height="0,25" />
+        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,25" width="0,25" height="0,25" />
+        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,25" width="0,25" height="0,25" />
+        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,25" width="0,25" height="0,25" />
+        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,25" width="0,25" height="0,25" />
+        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,5" width="0,25" height="0,25" />
+        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,5" width="0,25" height="0,25" />
+        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,5" width="0,25" height="0,25" />
+        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,5" width="0,25" height="0,25" />
+        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,75" width="0,25" height="0,25" />
+        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,25" y="0,75" width="0,25" height="0,25" />
+        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,5" y="0,75" width="0,25" height="0,25" />
+        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,75" y="0,75" width="0,25" height="0,25" />
+      </nodes>
+    </template>
+    <template name="Grid 3x3">
+      <nodes>
+        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="0,333333333333333" height="0,333333333333333" />
+        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0" width="0,333333333333333" height="0,333333333333333" />
+        <node index="2" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0" width="0,333333333333333" height="0,333333333333333" />
+        <node index="3" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
+        <node index="4" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
+        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0,333333333333333" width="0,333333333333333" height="0,333333333333333" />
+        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
+        <node index="7" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,333333333333333" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
+        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,666666666666667" y="0,666666666666667" width="0,333333333333333" height="0,333333333333333" />
+      </nodes>
+    </template>
+    <template name="Hand">
+      <nodes>
+        <node index="0" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0" y="0,523354212112772" width="0,1" height="0,1" />
+        <node index="1" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,267554070437366" y="0,190438858858667" width="0,1" height="0,1" />
+        <node index="2" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,459234508536754" y="0" width="0,1" height="0,1" />
+        <node index="3" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,631614023140946" y="0,115673953568819" width="0,1" height="0,1" />
+        <node index="4" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,8" y="0,337852649005014" width="0,1" height="0,1" />
+        <node index="5" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,0911813548664992" y="0,603761779074333" width="0,1" height="0,1" />
+        <node index="6" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,170382687730887" y="0,696865230700437" width="0,1" height="0,1" />
+        <node index="7" forecolor="Blue" backcolor="Transparent" shape="Triangle" x="0,267554070437366" y="0,0492909034478707" width="0,1" height="0,1" />
+        <node index="8" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,302163071949463" y="0,399216309657906" width="0,1" height="0,1" />
+        <node index="9" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,446589019772226" y="0,190438858858667" width="0,1" height="0,1" />
+        <node index="10" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,315474222059521" y="0,533228855167295" width="0,1" height="0,1" />
+        <node index="11" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,415307819820078" y="0,53887147718308" width="0,1" height="0,1" />
+        <node index="12" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,523128100162705" y="0,574137949050581" width="0,1" height="0,1" />
+        <node index="13" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,606988407598785" y="0,646081473934665" width="0,1" height="0,1" />
+        <node index="14" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,291514136893486" y="0,648902834512466" width="0,1" height="0,1" />
+        <node index="15" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,401331101914066" y="0,660188098372" width="0,1" height="0,1" />
+        <node index="16" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,49650587478225" y="0,690517228884275" width="0,1" height="0,1" />
+        <node index="17" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,587021654368826" y="0,755407510947564" width="0,1" height="0,1" />
+        <node index="18" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,242928492315034" y="0,804780587424435" width="0,1" height="0,1" />
+        <node index="19" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,349417637065748" y="0,777272738178108" width="0,1" height="0,1" />
+        <node index="20" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,45790348520433" y="0,787852622237263" width="0,1" height="0,1" />
+        <node index="21" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,34209654098955" y="0,9" width="0,1" height="0,1" />
+        <node index="22" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,446589019772226" y="0,885188094902105" width="0,1" height="0,1" />
+        <node index="23" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,56505827259066" y="0,842868320729919" width="0,1" height="0,1" />
+        <node index="24" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,431946734070257" y="0,402037610751816" width="0,1" height="0,1" />
+        <node index="25" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,551747103770688" y="0,465517212526205" width="0,1" height="0,1" />
+        <node index="26" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,647587350885254" y="0,555094082397839" width="0,1" height="0,1" />
+        <node index="27" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,595673904746851" y="0,284952990773672" width="0,1" height="0,1" />
+        <node index="28" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,736772051009664" y="0,433777401725029" width="0,1" height="0,1" />
+        <node index="29" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,522462569786578" y="0,577664530805051" width="0,1" height="0,1" />
+      </nodes>
+    </template>
+    <template name="jonas">
+      <nodes>
+        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="1" height="1" />
+      </nodes>
+    </template>
   </templates>
   <haptograms>
-    <haptogram name="Test" template="Grid 4x4">
+    <haptogram name="jonas" template="Grid 6x6">
       <frames>
-        <frame duration="250">0:255,4:255,8:255,12:255</frame>
-        <frame duration="250">1:255,5:255,9:255,13:255</frame>
-        <frame duration="250">2:255,6:255,10:255,14:255</frame>
-        <frame duration="250">3:255,7:255,11:255,15:255</frame>
+        <frame duration="250">1:255,7:255,13:255,19:255,25:255,26:255</frame>
+        <frame duration="250">30:255,24:255,18:255,12:255</frame>
+        <frame duration="250">31:255,25:255,19:255,13:255,33:255,27:255,21:255,15:255,14:100,20:100,26:100,32:100</frame>
+        <frame duration="250">32:255,26:255,20:255,14:255</frame>
       </frames>
     </haptogram>
     <haptogram name="again" template="Grid 6x6">
@@ -161,16 +161,23 @@
         <frame duration="500"></frame>
       </frames>
     </haptogram>
-    <haptogram name="jonas" template="Grid 6x6">
+    <haptogram name="Test" template="Grid 4x4">
       <frames>
-        <frame duration="250">1:255,7:255,13:255,19:255,25:255,26:255</frame>
-        <frame duration="250">30:255,24:255,18:255,12:255</frame>
-        <frame duration="250">31:255,25:255,19:255,13:255,33:255,27:255,21:255,15:255,14:100,20:100,26:100,32:100</frame>
-        <frame duration="250">32:255,26:255,20:255,14:255</frame>
+        <frame duration="250">0:255,4:255,8:255,12:255</frame>
+        <frame duration="250">1:255,5:255,9:255,13:255</frame>
+        <frame duration="250">2:255,6:255,10:255,14:255</frame>
+        <frame duration="250">3:255,7:255,11:255,15:255</frame>
       </frames>
     </haptogram>
   </haptograms>
   <sentences>
+    <sentence name="rere">
+      <blocks>
+        <block type="haptogram" name="jonas" />
+        <block type="haptogram" name="again" />
+        <block type="delay" value="444" />
+      </blocks>
+    </sentence>
     <sentence name="testing">
       <blocks>
         <block type="haptogram" name="Test" />
@@ -179,13 +186,6 @@
         <block type="delay" value="500" />
         <block type="haptogram" name="Test" />
         <block type="delay" value="2000" />
-      </blocks>
-    </sentence>
-    <sentence name="rere">
-      <blocks>
-        <block type="haptogram" name="jonas" />
-        <block type="haptogram" name="again" />
-        <block type="delay" value="444" />
       </blocks>
     </sentence>
   </sentences>
