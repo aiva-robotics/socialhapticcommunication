@@ -137,11 +137,6 @@
         <node index="29" forecolor="Red" backcolor="Transparent" shape="Circle" x="0,522462569786578" y="0,577664530805051" width="0,1" height="0,1" />
       </nodes>
     </template>
-    <template name="jonas">
-      <nodes>
-        <node index="0" forecolor="Red" backcolor="Transparent" shape="Circle" x="0" y="0" width="1" height="1" />
-      </nodes>
-    </template>
   </templates>
   <haptograms>
     <haptogram name="jonas" template="Grid 6x6">
